@@ -1,0 +1,8 @@
+# VS Code files
+.vscode/*
+
+# Package installation files
+holo_bot_api.egg-info
+
+# Pycache
+*__pycache__*

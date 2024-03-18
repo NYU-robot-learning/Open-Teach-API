@@ -1,0 +1,6 @@
+# Deployment port
+DEPLOYMENT_PORT = 10000
+
+# Camera stream ports
+RGB_PORT_OFFSET = 10005
+DEPTH_PORT_OFFSET = 1000
